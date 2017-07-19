@@ -1,2 +1,0 @@
-# fixhorario
-tope de horario
